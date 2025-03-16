@@ -1,0 +1,5 @@
+Art/f.png*f0
+Art/fish.png*fish
+Art/fishwalk1.png*fish1
+Art/fishwalk2.png*fish2
+Art/fishwalk3.png*fish3
